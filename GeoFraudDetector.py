@@ -125,13 +125,3 @@ geo_cercas(df, m.m1, m.m2)
 activaciones(df2, m.m1, m.m2)
 folium.LayerControl().add_to(m)
 m
-
-
-
-
-
-
-
-
-
-
